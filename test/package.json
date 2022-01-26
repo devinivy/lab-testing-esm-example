@@ -1,0 +1,8 @@
+{
+  "type": "commonjs",
+  "eslintConfig": {
+    "parserOptions": {
+      "sourceType": "script"
+    }
+  }
+}

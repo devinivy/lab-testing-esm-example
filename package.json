@@ -1,0 +1,17 @@
+{
+  "name": "lab-testing-esm-example",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -a @hapi/code -L"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@hapi/code": "^8.0.6",
+    "@hapi/eslint-plugin": "^5.1.0",
+    "@hapi/lab": "^24.5.1"
+  }
+}
